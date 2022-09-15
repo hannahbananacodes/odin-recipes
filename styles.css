@@ -1,0 +1,34 @@
+* {
+    background-color: #07001a;
+    color: #fff;
+    font-family: Verdana;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px
+}
+
+img {
+    width: 200px;
+    
+    
+}
+
+figcaption {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.right {
+    float: right;
+
+}
+
+#blur {
+    filter: blur(1px);
+}
